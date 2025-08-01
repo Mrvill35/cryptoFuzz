@@ -1,2 +1,4 @@
-#!/bin/bash
-python3 install.py
+# shellcheck disable=SC2148
+$ cat -v myscript
+#!/bin/sh
+echo "Hello World"
